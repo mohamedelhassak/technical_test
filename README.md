@@ -42,6 +42,6 @@ terraform
 - [IAM Design](IAM_DESIGN.md)
 - [Security Notes](SECURITY_NOTES.md)
 
-With More Time I Would Add zero down deployment strategy
+With More Time I Would Add zero down time deployment strategy (blue-green, canary deploy, ect...)
 
 **THANKS FOR READING**
